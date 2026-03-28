@@ -44,8 +44,7 @@
 ---
 
 ## 📈 GitHub Stats
-
-![Hesham Dahy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=heshamdahy&show_icons=true&theme=radical)
+![Hesham Dahy’s GitHub Stats](https://githubstats-api.vercel.app/api?username=heshamdahy&show_icons=true&theme=radical)
 ---
 
 ## 🌐 Connect With Me

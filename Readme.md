@@ -22,36 +22,10 @@
 * **Data Analysis:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn
 
----
-
-## 📊 Featured Projects
-
-
-### 💳 Credit Card Customer Churn Classification
-* Developed a high-accuracy classification pipeline to predict bank customer attrition.
-* **Key Results:** Achieved **96.25% accuracy** using Random Forest.
-* **Tech:** Python, Scikit-learn, Pearson Correlation, ROC/AUC Analysis.
-👉 [View Repository](https://github.com/heshamdahy/customer-churn-classification-ml)
-
-### 🔹 Student Performance Prediction
-
-* Built models to predict student performance
-* Applied preprocessing (encoding, scaling)
-* Used Random Forest & Linear Regression
-
-👉 https://github.com/heshamdahy/student-performance-factors-ml
-
----
-
-## 📈 GitHub Stats
-
-![My GitHub Stats](https://your‑custom‑vercel‑url.vercel.app/api?username=heshamdahy&show_icons=true&theme=radical)
-
----
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/hesham-dahy-9119503b8
+* 💼 LinkedIn: www.linkedin.com/in/hesham-dahy-16bba9423
 * 💻 GitHub: https://github.com/heshamdahy
 * 📧 Email: heshamdahy5@gmail.com
 * 📱 Phone: +20 110 381 1960
